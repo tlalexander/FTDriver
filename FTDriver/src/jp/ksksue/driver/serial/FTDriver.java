@@ -47,6 +47,7 @@ public class FTDriver {
     public static final int BAUD38400	= 38400;
     public static final int BAUD57600	= 57600;
     public static final int BAUD115200	= 115200;
+    public static final int BAUD125000	= 125000;
     public static final int BAUD230400	= 230400;
 
     private static final String TAG = "FTDriver";
